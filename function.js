@@ -10,3 +10,5 @@ console.log(a)
 console.log("yamu");
 
 console.log("VIJAYA");
+
+console.log(MANO);
