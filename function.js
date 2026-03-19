@@ -11,4 +11,4 @@ console.log("yamu");
 
 console.log("VIJAYA");
 
-console.log(fdfdfdfd);
+console.log(MANO);
