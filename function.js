@@ -12,3 +12,6 @@ console.log("yamu");
 console.log("VIJAYA");
 
 console.log(MANO);
+
+console.log("dhams");
+
